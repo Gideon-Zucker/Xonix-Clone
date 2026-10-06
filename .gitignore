@@ -1,0 +1,26 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta data (kept for scripts, ignored for the rest is NOT recommended)
+# We keep .meta files under version control.
+
+# IDE / OS
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.sln
+*.user
+.DS_Store
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
