@@ -23,8 +23,6 @@ project.
   you cannot run a second headless instance against the same project concurrently. If
   the user's Editor already has the project open, verify compilation through that
   Editor's own Console instead of trying to shell out to Unity.
-- **Not a git repo**: there is no `.git` directory anywhere (only a `.gitignore` file
-  exists) — `git` commands won't work here unless the user initializes one.
 
 ## Architecture
 
